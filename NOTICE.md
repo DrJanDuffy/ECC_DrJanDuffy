@@ -1,0 +1,1 @@
+> **ECC_DrJanDuffy** is Dr. Jan Duffy's working copy of [ECC](https://github.com/affaan-m/ECC) (MIT). See [`SOURCE.md`](SOURCE.md). Official installs still come from the upstream project, not this fork.
