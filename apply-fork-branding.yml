@@ -1,11 +1,3 @@
-name: Apply ECC_DrJanDuffy README branding
-on:
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  brand:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: echo ready
+# ECC_DrJanDuffy leftover probe
+# Branding: SOURCE.md and NOTICE.md
+# Optional README helper: python3 scripts/ecc-drjanduffy-brand.py
