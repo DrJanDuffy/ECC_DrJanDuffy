@@ -1,0 +1,11 @@
+name: Apply ECC_DrJanDuffy README branding
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  brand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo ready
